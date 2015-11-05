@@ -1,0 +1,35 @@
+*****Operações Básicas em Árvores:
+// 1 insere um elemento novo.
+// cada número inserido, dar um ENTER
+
+1
+> 14
+1
+> 1
+1
+> 12
+1
+> 42
+1
+> 17
+1
+> 8
+1
+> 11
+1
+> 5
+
+*****Árvore Genealógica
+// o 4 representa o número de triplas a ser inserido
+// o menu aparece após a inserção dos nomes
+
+4     
+isabel theresa pedroII
+pedroII leopoldina pedroI
+leopoldina franciscoII teresaBourbon
+pedroI joaoVI carlota
+
+*****Conversor de Equação Polonesa
+//separar cada símbolo/número por um espaço
+
+- * 4 5 / 3 6
