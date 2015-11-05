@@ -1,44 +1,44 @@
 ----------------------------------------------------LEIA-ME-------------------------------------------------------------------------------------------------------------------------------------- 
-Os programas elaborados correspondem a um trabalho para a disciplina SSC0300 - Linguagens de ProgramaÁ„o e AplicaÁıes, ministrada ao curso de Engenharia Mec‚nica pelo professor Adenilso Sim„o do Instituto de CiÍncias Matem·ticas e ComputaÁ„o(ICMC - USP).
+Os programas elaborados correspondem a um trabalho para a disciplina SSC0300 - Linguagens de Programa√ß√£o e Aplica√ß√µes, ministrada ao curso de Engenharia Mec√¢nica pelo professor Adenilso Sim√£o do Instituto de Ci√™ncias Matem√°ticas e Computa√ß√£o(ICMC - USP).
 
 
-Alunos: Fl·vio Sarti				N˙mero USP: 9312578	GitHub username: FlavioSarti
-	Vitor Eiti Uekawa 			N˙mero USP: 9012671 	GitHub username: vitoruekawa
-	Elizabete Vindilino			N˙mero USP: 9312922	GitHub username: Elizabete7
-	Nicole Mendes Flores			N˙mero USP: 9312599	GitHub username: nicolemendes
+Alunos: Fl√°vio Sarti				N√∫mero USP: 9312578	GitHub username: FlavioSarti
+	Vitor Eiti Uekawa 			N√∫mero USP: 9012671 	GitHub username: vitoruekawa
+	Elizabete Vindilino			N√∫mero USP: 9312922	GitHub username: Elizabete7
+	
 
 	
-	1- Vis„o geral
+	1- Vis√£o geral
 
-		O conte˙do do repositÛrio foi elaborado para o cumprimento do 2∞ trabalho da disciplina SSC0300 - Linguagens de ProgramaÁ„o e AplicaÁıes, estando inclusos 3 programas relacionados ao funcionamento e aplicaÁ„o de ·rvores bin·rias. 
+		O conte√∫do do reposit√≥rio foi elaborado para o cumprimento do 2¬∞ trabalho da disciplina SSC0300 - Linguagens de Programa√ß√£o e Aplica√ß√µes, estando inclusos 3 programas relacionados ao funcionamento e aplica√ß√£o de √°rvores bin√°rias. 
 		Cada programa foi desenvolvido em 3 diferentes arquivos fontes(.c) e para cada programa foram desenvolvidas bibliotecas.
-		AlÈm disso, no repositÛrio, encontram-se os arquivos fontes(.c), as bibliotecas(.h), os execut·veis(.exe) e os cen·rios de uso com entradas-exemplo utilizados para o desenvolvimento do programa.
-		Para descrever o trabalho em geral, foi desenvolvido um relatÛrio(.pdf) contendo informaÁıes como: IntroduÁ„o, DescriÁ„o do Projeto, Tutorial e Outras InformaÁıes. Tal relatÛrio est· contido no mesmo repositÛrio que os demais arquivos.
+		Al√©m disso, no reposit√≥rio, encontram-se os arquivos fontes(.c), as bibliotecas(.h), os execut√°veis(.exe) e os cen√°rios de uso com entradas-exemplo utilizados para o desenvolvimento do programa.
+		Para descrever o trabalho em geral, foi desenvolvido um relat√≥rio(.pdf) contendo informa√ß√µes como: Introdu√ß√£o, Descri√ß√£o do Projeto, Tutorial e Outras Informa√ß√µes. Tal relat√≥rio est√° contido no mesmo reposit√≥rio que os demais arquivos.
 
 
 	2 - Programas
 	
-		O repositÛrio contÈm 3 programas relacionados ao funcionamento e a aplicaÁ„o de ·rvores bin·rias. Tais programas s„o: OperaÁıes B·sicas em ¡rvores; ¡rvore genealÛgica; Conversor de EquaÁ„o Polonesa.
-		Para cada programa segue uma breve explicaÁ„o de sua funÁ„o:
+		O reposit√≥rio cont√©m 3 programas relacionados ao funcionamento e a aplica√ß√£o de √°rvores bin√°rias. Tais programas s√£o: Opera√ß√µes B√°sicas em √Årvores; √Årvore geneal√≥gica; Conversor de Equa√ß√£o Polonesa.
+		Para cada programa segue uma breve explica√ß√£o de sua fun√ß√£o:
 
-		2.1 - OperaÁıes B·sicas em ¡rvores
+		2.1 - Opera√ß√µes B√°sicas em √Årvores
 
-			O programa OperaÁıes B·sicas em ¡rvores tem a funÁ„o de organizar "n" n˙meros entrados pelo usu·rio, sendo "n" um n˙mero definido pelo mesmo, em uma ·rvore de busca bin·ria. Tal programa tambÈm executa operaÁıes b·sicas como a inserÁ„o de valores, a remoÁ„o de valores j· estabelecidos, a busca de valores e a impress„o dos valores da ·rvore.
-			A impress„o dos valores da ·rvore pode ser realizada de diferentes maneiras pelo programa: PrÈ Ordem, PÛs Ordem, Em Ordem ou em Labelled Bracketing.
-			O programa contÈm um menu, atravÈs do qual o usu·rio pode escolher qual operaÁ„o b·sica ele deseja efetuar, incluindo o tipo de impress„o que ele deseja.
-			O programa È acompanhado de uma entrada-exemplo em um arquivo (.txt).
+			O programa Opera√ß√µes B√°sicas em √Årvores tem a fun√ß√£o de organizar "n" n√∫meros entrados pelo usu√°rio, sendo "n" um n√∫mero definido pelo mesmo, em uma √°rvore de busca bin√°ria. Tal programa tamb√©m executa opera√ß√µes b√°sicas como a inser√ß√£o de valores, a remo√ß√£o de valores j√° estabelecidos, a busca de valores e a impress√£o dos valores da √°rvore.
+			A impress√£o dos valores da √°rvore pode ser realizada de diferentes maneiras pelo programa: Pr√© Ordem, P√≥s Ordem, Em Ordem ou em Labelled Bracketing.
+			O programa cont√©m um menu, atrav√©s do qual o usu√°rio pode escolher qual opera√ß√£o b√°sica ele deseja efetuar, incluindo o tipo de impress√£o que ele deseja.
+			O programa √© acompanhado de uma entrada-exemplo em um arquivo (.txt).
 	
-		2.2 - ¡rvore genealÛgica
+		2.2 - √Årvore geneal√≥gica
 
-			O programa ¡rvore GenealÛgica utiliza o funcionamento de uma ·rvore de busca bin·ria para simular uma ·rvore genealÛgica. Tal programa recebe do usu·rio um n˙mero N de triplas de 3 nomes representando relaÁıes entre filho, pai e m„e, sendo que, para a elaboraÁ„o do programa, considerou-se que cada casal possui no m·ximo 1 filho.
-			AlÈm de simular uma ·rvore genealÛgica, o programa possui funÁıes como: imprimir membros de uma famÌlia por geraÁ„o, imprimir os antepassados de um dado indivÌduo, imprimir os membros da ·rvore utilizando Labelled Bracketing e calcular o n˙mero equivalente ao grau de parentesco entre membros da famÌlia.
-			O grau de parentesco foi estabelecido de acordo com os n˙meros 0, 1, 2 e 3, sendo 0 o grau de parentesco entre pessoas que n„o possuem consanguinidade, por exemplo marido e mulher, grau 1 a relaÁ„o entre pai e filho, grau 2 a relaÁ„o entre avÙ e filho e grau 3 a relaÁ„o entre bisavÙ e filho.
-			O programa contÈm um menu, atravÈs do qual o usu·rio pode escolher qual operaÁ„o ele deseja efetuar.
-			O programa È acompanhado de uma entrada-exemplo em um arquivo (.txt).
+			O programa √Årvore Geneal√≥gica utiliza o funcionamento de uma √°rvore de busca bin√°ria para simular uma √°rvore geneal√≥gica. Tal programa recebe do usu√°rio um n√∫mero N de triplas de 3 nomes representando rela√ß√µes entre filho, pai e m√£e, sendo que, para a elabora√ß√£o do programa, considerou-se que cada casal possui no m√°ximo 1 filho.
+			Al√©m de simular uma √°rvore geneal√≥gica, o programa possui fun√ß√µes como: imprimir membros de uma fam√≠lia por gera√ß√£o, imprimir os antepassados de um dado indiv√≠duo, imprimir os membros da √°rvore utilizando Labelled Bracketing e calcular o n√∫mero equivalente ao grau de parentesco entre membros da fam√≠lia.
+			O grau de parentesco foi estabelecido de acordo com os n√∫meros 0, 1, 2 e 3, sendo 0 o grau de parentesco entre pessoas que n√£o possuem consanguinidade, por exemplo marido e mulher, grau 1 a rela√ß√£o entre pai e filho, grau 2 a rela√ß√£o entre av√¥ e filho e grau 3 a rela√ß√£o entre bisav√¥ e filho.
+			O programa cont√©m um menu, atrav√©s do qual o usu√°rio pode escolher qual opera√ß√£o ele deseja efetuar.
+			O programa √© acompanhado de uma entrada-exemplo em um arquivo (.txt).
 
-		2.3 - Conversor de EquaÁ„o Polonesa
+		2.3 - Conversor de Equa√ß√£o Polonesa
 
-			O programa Conversor de EquaÁ„o Polonesa utiliza o funcionamento de uma ·rvore de busca bin·ria para realizar conversıes de notaÁıes matem·ticas. Tal programa converte expressıes em notaÁ„o polonesa para notaÁ„o polonesa reversa ou notaÁ„o infixa.
-			Assim como os demais programas, o programa Conversor de EquaÁ„o Polonesa contÈm um menu, atravÈs do qual o usu·rio pode escolher qual convers„o ele deseja efetuar, isso È, se ele deseja converter a express„o em notaÁ„o polonesa para notaÁ„o polonesa reversa ou notaÁ„o infixa.
-			O programa È acompanhado de uma entrada-exemplo em um arquivo (.txt).
+			O programa Conversor de Equa√ß√£o Polonesa utiliza o funcionamento de uma √°rvore de busca bin√°ria para realizar convers√µes de nota√ß√µes matem√°ticas. Tal programa converte express√µes em nota√ß√£o polonesa para nota√ß√£o polonesa reversa ou nota√ß√£o infixa.
+			Assim como os demais programas, o programa Conversor de Equa√ß√£o Polonesa cont√©m um menu, atrav√©s do qual o usu√°rio pode escolher qual convers√£o ele deseja efetuar, isso √©, se ele deseja converter a express√£o em nota√ß√£o polonesa para nota√ß√£o polonesa reversa ou nota√ß√£o infixa.
+			O programa √© acompanhado de uma entrada-exemplo em um arquivo (.txt).
 		
